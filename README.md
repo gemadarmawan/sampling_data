@@ -9,4 +9,4 @@ Menggabungkan 2 file csv menjadi 1 file csv
 
 Menghapus file
 
-Melakukakan sampling dengan parameter tertentu
+Melakukan sampling dengan parameter tertentu
